@@ -1,0 +1,20 @@
+name: bhurlburt3-hmwrk1 
+channels:
+  - bokeh
+  - ioam
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - graphviz
+  - ipython
+  - notebook
+  - pyparsing
+  - bokeh
+  - selenium
+  - pillow
+  - phantomjs

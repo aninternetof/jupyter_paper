@@ -1,0 +1,5 @@
+ipython nbconvert --to=latex --template=../jnotebook/hidecode.tplx "Homework 1 - Supervised Learning.ipynb"
+pdflatex "Homework 1 - Supervised Learning.tex" 
+bibtex "Homework 1 - Supervised Learning.aux" 
+pdflatex "Homework 1 - Supervised Learning.tex" 
+pdflatex "Homework 1 - Supervised Learning.tex" 
